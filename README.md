@@ -14,7 +14,8 @@ I am a motivated and detail-oriented engineering graduate with strong interests 
 
 ## 🚀 About Me
 
-* 🎓 Pursuing **B.E. in Artificial Intelligence & Machine Learning**
+* 🎓 Currently pursuing my Master of Technology in the domine of cyber security from REVA UNIVERSITY RACE
+* 🎓 Graduated **B.E. in Artificial Intelligence & Machine Learning**
 * 🧠 Strong foundation in **Control Systems, Embedded C, MATLAB/Simulink**
 * ✈️ Hands-on experience with **Automatic Flight Control Systems** at **HAL AFCS**
 * 🧪 Worked under **defense and aerospace standards** (DO-178C, MIL-STD)
